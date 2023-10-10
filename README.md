@@ -1,5 +1,4 @@
 Hi i'm michelangelo
 
-Currently i'm working as a Frontend developer but still got a passion on IOT developing tho
+Currently i'm working as a Frontend developer, studying to be a Designer Engineer, degree in IOT development
 
-Love music and sometimes i make something out of it...
